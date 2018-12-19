@@ -27,10 +27,10 @@ Please only use this data within your group, and not to share with others.
 # Paper
 If you feel this dataset help your research, please cite the following. 
 
-@inproceedings{Song:2018, 
-author = {Song, Guoxian and Cai, Jianfei and Cham, Tat-Jen and Zheng, Jianmin and Zhang, Juyong and Fuchs, Henry},
-title = {Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset},
-booktitle = {Proceedings of the 26th ACM International Conference on Multimedia},
-year = {2018},
-pages = {923--931},
+@inproceedings{Song:2018,  
+author = {Song, Guoxian and Cai, Jianfei and Cham, Tat-Jen and Zheng, Jianmin and Zhang, Juyong and Fuchs, Henry},  
+title = {Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset},  
+booktitle = {Proceedings of the 26th ACM International Conference on Multimedia},  
+year = {2018},  
+pages = {923--931},  
 }
