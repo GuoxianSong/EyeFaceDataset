@@ -24,7 +24,7 @@ To align HMD with face, we provide a code "HMDgh.gh" file. This is a grasshopper
 For any inquire, please email to me at guoxian001@e.ntu.edu.sg
 Please only use this data within your group, and not to share with others.
 
-# Paper:
+# Paper
 If you feel this dataset help your research, please cite the following. 
 
 @inproceedings{Song:2018:RFP:3240508.3240570,
