@@ -27,34 +27,10 @@ Please only use this data within your group, and not to share with others.
 # Paper
 If you feel this dataset help your research, please cite the following. 
 
-@inproceedings{Song:2018:RFP:3240508.3240570,
- author = {Song, Guoxian and Cai, Jianfei and Cham, Tat-Jen and Zheng, Jianmin and Zhang, Juyong and Fuchs, Henry},
- 
- title = {Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset},
- 
- booktitle = {Proceedings of the 26th ACM International Conference on Multimedia},
- 
- series = {MM '18},
- 
- year = {2018},
- 
- isbn = {978-1-4503-5665-7},
- 
- location = {Seoul, Republic of Korea},
- 
- pages = {923--931},
- 
- numpages = {9},
- 
- url = {http://doi.acm.org/10.1145/3240508.3240570},
- 
- doi = {10.1145/3240508.3240570},
- 
- acmid = {3240570},
- 
- publisher = {ACM},
- 
- address = {New York, NY, USA},
- 
- keywords = {3d facial reconstruction, gaze estimation, hmds},
-} 
+@inproceedings{Song:2018, 
+	author = {Song, Guoxian and Cai, Jianfei and Cham, Tat-Jen and Zheng, Jianmin and Zhang, Juyong and Fuchs, Henry},
+	title = {Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset},
+	booktitle = {Proceedings of the 26th ACM International Conference on Multimedia},
+	year = {2018},
+	pages = {923--931},
+}
