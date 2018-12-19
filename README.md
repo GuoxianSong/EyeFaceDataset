@@ -27,7 +27,7 @@ Please only use this data within your group, and not to share with others.
 # Paper
 If you feel this dataset help your research, please cite the following. 
 
-@inproceedings{Song:2018:RFP:3240508.3240570,//
+@inproceedings{Song:2018:RFP:3240508.3240570,
  author = {Song, Guoxian and Cai, Jianfei and Cham, Tat-Jen and Zheng, Jianmin and Zhang, Juyong and Fuchs, Henry},
  
  title = {Real-time 3D Face-Eye Performance Capture of a Person Wearing VR Headset},
@@ -55,7 +55,5 @@ If you feel this dataset help your research, please cite the following.
  publisher = {ACM},
  
  address = {New York, NY, USA},
- 
  keywords = {3d facial reconstruction, gaze estimation, hmds},
- 
 } 
